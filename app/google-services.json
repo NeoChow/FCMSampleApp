@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "968258935040",
+    "firebase_url": "https://fcmtest-af577.firebaseio.com",
+    "project_id": "fcmtest-af577",
+    "storage_bucket": "fcmtest-af577.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968258935040:android:ba6bb1ebdea9562c673be5",
+        "android_client_info": {
+          "package_name": "com.github.NeoChow.fcmsampleapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968258935040-ml8nsj1jm0a4tekq8djkodk0ndks3flu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC9NZvSY-uvNxQqNyF-OTxtNVB5h0QBA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968258935040-ml8nsj1jm0a4tekq8djkodk0ndks3flu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
